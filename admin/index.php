@@ -182,7 +182,7 @@ if($_SESSION['status'] !="login"){
 		.navbar .nav > li > a > i {
 			display: inline-block;			
 			text-align: left;
-			min-width: 30px;
+			min-width: 35px;
 			position: relative;
 			top: 4px;
 		}
@@ -313,8 +313,8 @@ if($_SESSION['status'] !="login"){
         top: 3px;
     }    
     table.table .form-control {
-        height: 32px;
-        line-height: 32px;
+        height: 35px;
+        line-height: 35px;
         box-shadow: none;
         border-radius: 2px;
     }
